@@ -1,3 +1,3 @@
 # utility
-Test first commit
-Test moved file
+
+Contains programs for assorted computing tasks.
